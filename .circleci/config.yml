@@ -2,7 +2,6 @@ version: 2.1
 
 jobs:
   build:
-
     # Primary container image where all commands run
     docker:
       - image: cimg/elixir:1.13.3
